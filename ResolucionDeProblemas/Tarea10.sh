@@ -1,6 +1,8 @@
 #!/bin/bash
 
 tarea10 () { clear
+    echo -e "\033[0;36mTarea 10 \033[0m\n"
+
     echo "Compruebe Usuario"
     read -r -p "=> " user
     if [ ! -d "$user" ]; then

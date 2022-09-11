@@ -24,55 +24,55 @@ while [ "$op_central" != 14 ]; do
     case "$op_central" in
         
         1) clear
-            ./Tarea1.sh
+            ResolucionDeProblemas/./Tarea1.sh
         ;;
         
         2) clear
-            ./Tarea2.sh
+            ResolucionDeProblemas/./Tarea2.sh
         ;;
         
         3) clear
-            ./Tarea3.sh
+            ResolucionDeProblemas/./Tarea3.sh
         ;;
 
         4) clear
-            ./Tarea4.sh
+            ResolucionDeProblemas/./Tarea4.sh
         ;;
 
         5) clear
-            ./Tarea5.sh
+            ResolucionDeProblemas/./Tarea5.sh
         ;;
 
         6) clear
-            ./Tarea6.sh
+            ResolucionDeProblemas/./Tarea6.sh
         ;;
 
         7) clear
-            ./Tarea7.sh
+            ResolucionDeProblemas/./Tarea7.sh
         ;;
 
         8) clear
-            ./Tarea8.sh
+            ResolucionDeProblemas/./Tarea8.sh
         ;;
 
         9) clear
-            ./Tarea9.sh
+            ResolucionDeProblemas/./Tarea9.sh
         ;;
 
         10) clear
-            ./Tarea10.sh
+            ResolucionDeProblemas/./Tarea10.sh
         ;;
 
         11) clear
-            Tarea11/./Tarea11A.sh
+            ResolucionDeProblemas/Tarea11/./Tarea11A.sh
         ;;
 
         12) 
-            Tarea11/./Tarea11B.sh
+            ResolucionDeProblemas/Tarea11/./Tarea11B.sh
         ;;
 
         13) clear
-            ./Tarea12.sh
+            ResolucionDeProblemas/./Tarea12.sh
         ;;
 
         14) 

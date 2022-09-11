@@ -1,6 +1,8 @@
 #!/bin/bash
 
 tarea8 () { clear
+    echo -e "\033[0;36mTarea 8 \033[0m\n"
+
     res=1
 
     echo "Elige el numero del cual desea saber su factorial"

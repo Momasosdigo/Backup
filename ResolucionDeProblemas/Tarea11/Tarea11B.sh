@@ -1,6 +1,8 @@
 #!/bin/bash
 
 tarea11B () {
+    echo -e "\033[0;36mTarea 11 B \033[0m\n"
+
     echo "Escja la frace que desea descifrar"
     read -r -p "=> " frace
 

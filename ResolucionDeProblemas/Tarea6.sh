@@ -1,6 +1,8 @@
 #!/bin/bash
 
 tarea6 () { clear
+    echo -e "\033[0;36mTarea 6 \033[0m\n"
+
     echo "Elige una palabra para ver cuantos caracteres"
     echo "la componen"
     read -r -p "=> " op

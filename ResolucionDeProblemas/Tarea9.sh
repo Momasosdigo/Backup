@@ -1,7 +1,9 @@
 #!/bin/bash
 
 tarea9 () { clear
-    echo "Introduce la ruta de un archivo para comprobar"
+    echo -e "\033[0;36mTarea 9 \033[0m\n"
+
+    echo "Introduce el nombre del archivo para comprobar"
     echo "su existencia y si no es asi se va a crear"
     read -r -p "=> " op 
     

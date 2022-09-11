@@ -1,6 +1,8 @@
 #!/bin/bash
 
 tarea12 () { clear
+    echo -e "\033[0;36mTarea 12 \033[0m\n"
+
     echo "Ingrese la palabra que desea saber si es un palindromo"
     read -r -p "=> " op
 

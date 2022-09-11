@@ -3,6 +3,7 @@
 tare2 () { clear
     op=0
     op2=0
+    echo -e "\033[0;36mTarea 2 \033[0m\n"
     
     echo "Ingrese el numero que desea compronar si es primo o no: "
     read -r -p "=> " op

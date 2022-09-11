@@ -1,6 +1,8 @@
 #!/bin/bash
 
 tarea7 () { clear
+    echo -e "\033[0;36mTarea 7 \033[0m\n"
+
     echo "Elige  una palabra "
     read -r -p "=> " op
     

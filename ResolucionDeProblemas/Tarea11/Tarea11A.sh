@@ -1,6 +1,8 @@
 #!/bin/bash
 
 tarea11A () { clear
+    echo -e "\033[0;36mTarea 11 A \033[0m\n"
+
     echo "Escja la frace que desea cifrar"
     read -r -p "=> " frace
 

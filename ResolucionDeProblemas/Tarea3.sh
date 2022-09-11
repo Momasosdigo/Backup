@@ -1,6 +1,8 @@
 #!/bin/bash
 
 tarea3 () {
+    echo -e "\033[0;36mTarea 3 \033[0m\n"
+
     echo "Elige el primer numero: "
     read -r -p "=> " op
     echo "Elige el segundo numero: "

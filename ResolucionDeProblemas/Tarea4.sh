@@ -1,6 +1,8 @@
 #!/bin/bash
 
 tarea4 () { clear
+    echo -e "\033[0;36mTarea 4 \033[0m\n"
+
     echo "Elige el primer numero"
     read -r -p "=> " op
     echo "Elige el segundo numero"
