@@ -11,7 +11,7 @@ tarea3 () {
     elif [[ $op -ge $op2 ]]; then
         echo "$op" " es mayor que " "$op2"
     else
-    echo "$op" " es menor que " "$op2"
+        echo "$op" " es menor que " "$op2"
     fi
     sleep 2s
 }

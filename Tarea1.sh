@@ -9,7 +9,7 @@ tarea1 () { clear
     echo "Elige el segundo numero: "
     read -r -p "=> " op2
 
-    for((i=op +1; i<op2; i++)); do
+    for ((i=op +1; i<op2; i++)); do
         echo "El resultado es: " "$i"
     done
     sleep 2s

@@ -9,11 +9,11 @@ tare2 () { clear
 
     for comprobacion in $(seq "$op"); do
         if [ $(expr $op % $comprobacion) -eq 0 ]; then
-            let op2+=1
+            res=$((op2+=1))
         fi
     done
 
-    if [ "$op2" -eq 2 ]; then
+    if [ "$res" -eq 2 ]; then
         echo "Su numero es primo"
     else
         echo "Su mumero no es primo"
