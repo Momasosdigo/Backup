@@ -1,3 +1,2 @@
 # Backup
-Puto el que lo lea
-jaja seguis leyendo, putaso 
+https://view.genial.ly/64150d121539d8001372723f/presentation-presentacion-ada
